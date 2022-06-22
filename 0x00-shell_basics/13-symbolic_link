@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s directory_you_are_linking_to symbol_link
+ln -s/bin/ls__ls__
